@@ -1,5 +1,8 @@
 # 💫 About Me:
-- I'm currently working on a friend's web page with Next.JS<br>- I'm also rebuilding my old projects due to problems with my old github account.<br>- I have experience with different languages like: C, C++, C#, Java, Javascript, Python, Dart, R, Typescript.<br>- I love to play RPG's and read some good horror stories.
+💻 I'm currently working on a friend's web page with Next.JS<br>
+🛠 I'm also rebuilding my old projects due to problems with my old github account.<br>
+📝 I have experience with different languages like: C, C++, C#, Java, Javascript, Python, Dart, R, Typescript.<br>
+🎮 I love to play RPG's and read some good horror stories.
 
 
 ## 🌐 Socials:
